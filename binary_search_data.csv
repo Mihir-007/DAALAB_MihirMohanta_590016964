@@ -1,0 +1,16 @@
+test_case_type,size,time_used
+best,1,0.000000
+best,5,0.000000
+best,10,0.000000
+best,100,0.000000
+best,1000,0.000000
+average,1,0.000000
+average,5,0.000000
+average,10,0.000000
+average,100,0.000000
+average,1000,0.000000
+worst,1,0.000000
+worst,5,0.000000
+worst,10,0.000000
+worst,100,0.000000
+worst,1000,0.000000
