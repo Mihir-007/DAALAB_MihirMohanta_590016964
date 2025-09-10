@@ -53,6 +53,6 @@ int main() {
         run_cases(fp, sizes[i], sizes[i]+20, "worst");
     }
     fclose(fp);
-    printf("data entered in file binary_Search_data.csv\n");
+    printf("data entered in file binary_search_data.csv\n");
     return 0;
 }
