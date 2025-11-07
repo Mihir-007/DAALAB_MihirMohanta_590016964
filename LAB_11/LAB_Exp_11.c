@@ -40,6 +40,10 @@ void matrix_chain_order(int p[], int n) {
     printf("\n");
 }
 
+
+
+
+
 int main() {
     int n;
     printf("enter  the number of matrices: ");
