@@ -15,7 +15,6 @@ void print_parenthesis(int i, int j, int n, int bracket[][n], char *name) {
 void matrix_chain_order(int p[], int n) {
     int m[n][n];
     int bracket[n][n];
-
     for (int i = 1; i < n; i++)
     {
         m[i][i] = 0;
@@ -39,11 +38,6 @@ void matrix_chain_order(int p[], int n) {
     print_parenthesis(1, n - 1, n, bracket, &name);
     printf("\n");
 }
-
-
-
-
-
 int main() {
     int n;
     printf("enter  the number of matrices: ");
